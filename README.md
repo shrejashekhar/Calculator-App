@@ -1,6 +1,6 @@
 # Calculator-App
 
-This is the Calculator App made completely using HTML, CSS and Javacript.
+Calculator App made completely in HTML, CSS and Javacript.
 
 # Screenshots
 

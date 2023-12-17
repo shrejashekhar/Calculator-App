@@ -2,6 +2,8 @@
 
 Calculator App made completely in HTML, CSS and Javacript.
 
+[Test it yourself](https://shrejashekhar.github.io/Calculator-App/)
+
 # Screenshots
 
 ![main screen](https://user-images.githubusercontent.com/129970255/230884977-84ebc7a4-6bef-452e-a1b5-3d3924345eda.jpg)
